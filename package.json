@@ -11,11 +11,13 @@
   "keywords": [
     "websocket",
     "godot",
-    "nodejs"],
+    "nodejs"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "mongodb": "^7.0.0",
     "ws": "^8.18.3"
   }
 }
