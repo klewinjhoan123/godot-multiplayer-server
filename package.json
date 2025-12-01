@@ -1,14 +1,17 @@
 {
   "name": "juegoserver_smile_ville",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Servidor WebSocket para juego Godot",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server.js",
     "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "websocket",
+    "godot",
+    "nodejs"],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
